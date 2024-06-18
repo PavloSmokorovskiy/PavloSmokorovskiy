@@ -9,7 +9,7 @@
 
   
 ### About Me:    
-Oracle Certified Prof, Java SE 17 Programmer
+Oracle Certified Professional: Java SE 17 Developer
 
 Join me on Linkedin:
 
