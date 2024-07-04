@@ -11,18 +11,18 @@
 ### About Me:    
 Oracle Certified Prof, Java SE 17 Programmer
 
-Join me on Linkedin:
+Join me on LinkedIn:
 
-[![Telegram Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavvel/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavvel/)
 
 Join me on Telegram:
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pavvels)
 
-Visit my profile on LeetCode:
+Check my profile on LeetCode:
 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/pavvels)
+[![LeetCode user pavvels](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpavvels&logo=leetcode&logoColor=yellow)](https://leetcode.com/pavvels/)
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="800" src="assets/github-snake.svg" alt="snake"/>
 </p>
